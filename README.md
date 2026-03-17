@@ -44,6 +44,14 @@ Contributions welcome. To add a prompt:
 2. Add your prompt to the relevant category file following the format above
 3. Open a pull request with a brief description of when the prompt is most useful
 
+## Teardown
+
+A structured product teardown applying PM frameworks to a real AI product:
+
+| Teardown | Coverage |
+|----------|----------|
+| [Claude (Anthropic)](teardown-claude.md) | Positioning, JTBD, UX decisions, business model, recommendations |
+
 ## Tips for Better Results
 
 - **Be specific with placeholders** — the more context you give, the better the output
