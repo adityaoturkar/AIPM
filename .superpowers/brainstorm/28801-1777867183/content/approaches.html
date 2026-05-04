@@ -1,0 +1,120 @@
+<h2>Approach Comparison</h2>
+<p class="subtitle">How the Product Framework will be organized and presented</p>
+
+<div class="cards">
+  <div class="card" data-choice="approach1" onclick="toggleSelect(this)">
+    <div class="card-body">
+      <h3>Approach 1: Templated System</h3>
+      <p style="font-size: 0.9em; line-height: 1.6;">Heavy on guidance and instructions</p>
+
+      <div style="background: #f5f5f5; padding: 12px; border-radius: 4px; margin: 12px 0; font-family: monospace; font-size: 0.85em;">
+<pre>📁 Product Framework/
+  📁 /discovery
+    ├── user-research.md
+    │   ├── 📝 Instructions
+    │   ├── 📋 Template
+    │   └── 💡 Example
+    └── data-strategy.md
+        ├── 📝 Instructions
+        ├── 📋 Template
+        └── 💡 Example
+
+  📁 /strategy
+    ├── model-requirements.md
+    │   ├── 📝 Instructions
+    │   ├── 📋 Template
+    │   └── 💡 Example
+    └── go-to-market.md
+        ├── 📝 Instructions
+        ├── 📋 Template
+        └── 💡 Example
+
+  📁 /comms
+    └── prd.md
+        ├── 📝 Instructions
+        ├── 📋 Template
+        └── 💡 Example</pre>
+      </div>
+
+      <div class="pros-cons">
+        <div class="pros">
+          <h4>Pros</h4>
+          <ul>
+            <li>Very comprehensive</li>
+            <li>Shows depth of thinking</li>
+            <li>Reusable for others</li>
+            <li>Clear guidance</li>
+          </ul>
+        </div>
+        <div class="cons">
+          <h4>Cons</h4>
+          <ul>
+            <li>More files (13 total)</li>
+            <li>Can feel dense</li>
+            <li>More maintenance</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="card" data-choice="approach2" onclick="toggleSelect(this)">
+    <div class="card-body">
+      <h3>Approach 2: Lean & Polished</h3>
+      <p style="font-size: 0.9em; line-height: 1.6;">Focus on examples, let them speak</p>
+
+      <div style="background: #f5f5f5; padding: 12px; border-radius: 4px; margin: 12px 0; font-family: monospace; font-size: 0.85em;">
+<pre>📁 Product Framework/
+  📁 /discovery
+    ├── user-research.md
+    │   ├── Brief intro
+    │   └── 💡 Example
+    └── data-strategy.md
+        ├── Brief intro
+        └── 💡 Example
+
+  📁 /strategy
+    ├── model-requirements.md
+    │   ├── Brief intro
+    │   └── 💡 Example
+    └── go-to-market.md
+        ├── Brief intro
+        └── 💡 Example
+
+  📁 /comms
+    └── prd.md
+        ├── Brief intro
+        └── 💡 Example
+
+  📄 README.md
+    └── Overview & methodology</pre>
+      </div>
+
+      <div class="pros-cons">
+        <div class="pros">
+          <h4>Pros</h4>
+          <ul>
+            <li>Cleaner, easier to scan</li>
+            <li>Confidence in examples</li>
+            <li>Easier to maintain</li>
+            <li>Less overwhelming</li>
+          </ul>
+        </div>
+        <div class="cons">
+          <h4>Cons</h4>
+          <ul>
+            <li>Assumes reader knows</li>
+            <li>Less guidance</li>
+            <li>Fewer templates</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="margin-top: 32px; padding: 16px; background: #f9f9f9; border-radius: 4px;">
+  <p style="font-size: 0.9em; color: #666; margin: 0;">
+    <strong>Which feels more aligned with your goals?</strong> Click to select, and we can refine from there.
+  </p>
+</div>

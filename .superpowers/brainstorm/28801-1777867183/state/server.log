@@ -1,0 +1,4 @@
+{"type":"server-started","port":56444,"host":"127.0.0.1","url_host":"localhost","url":"http://localhost:56444","screen_dir":"/Users/adirash/AIPM/AIPM/.superpowers/brainstorm/28801-1777867183/content","state_dir":"/Users/adirash/AIPM/AIPM/.superpowers/brainstorm/28801-1777867183/state"}
+{"type":"screen-added","file":"/Users/adirash/AIPM/AIPM/.superpowers/brainstorm/28801-1777867183/content/approaches.html"}
+{"type":"screen-added","file":"/Users/adirash/AIPM/AIPM/.superpowers/brainstorm/28801-1777867183/content/waiting.html"}
+{"type":"server-stopped","reason":"idle timeout"}
