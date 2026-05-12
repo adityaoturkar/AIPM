@@ -143,6 +143,17 @@ Open [PM Prompts Library](../../tree/claude/pm-prompt-library-setup-6YvGV) direc
 
 ---
 
+## 📚 Teardowns & Case Studies
+
+See real-world product analysis using the frameworks. Each teardown applies the 5 Product Frameworks to a specific product, showing how to evaluate strategy, user experience, business model, and competitive positioning.
+
+**[View all teardowns →](teardowns/README.md)**
+
+**Current teardowns:**
+- **[AppleCare](teardowns/applecare-teardown.md)** — Services subscription analysis covering retention, multi-device strategy, and service quality challenges
+
+---
+
 ## What's in This Portfolio
 
 This is a personal PM framework and template collection, publicly shared because it might be useful to you.
