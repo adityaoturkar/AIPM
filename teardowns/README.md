@@ -7,6 +7,7 @@ Deep-dive analyses of products using the [AIPM Product Framework](../README.md#t
 | Product | Category | Framework Focus | Read Time |
 |---------|----------|-----------------|-----------|
 | [AppleCare](applecare-teardown.md) | Services / Subscription | Business model, retention loops, service quality | ~10 min |
+| [Turo](turo-teardown.md) | Marketplace / Mobility | Two-sided marketplace trust, host/guest dynamics, competitive positioning | ~10 min |
 
 ## How to Read a Teardown
 
