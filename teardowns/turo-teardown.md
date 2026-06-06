@@ -11,7 +11,8 @@
 
 ## 📌 TL;DR
 
-Turo is the clearest product MVP for the peer-to-peer car-sharing thesis: asset-light, EBITDA-positive for four straight years, and tracking toward $1B in revenue in 2025 on $2.5B in GBV. The model is fundamentally sound — but the product is quietly at an inflection point. The core short-term rental experience is plagued by trust breakdowns that Turo can't fully control (unreliable hosts, surprise fees, slow claims), and the company is betting its next chapter on monthly and multi-month rentals, where trip risk is 68% lower and host economics are cleaner. The biggest open opportunity isn't feature depth — it's **turning a fragmented host supply into a consistent, predictable service layer** that makes Turo as reliable as Marriott, not as risky as Craigslist.
+Turo is the clearest product MVP for the peer-to-peer car-sharing thesis: asset-light, EBITDA-positive for four straight years, and tracking over $1B in revenue in 2025 on $2.5B in GBV. As a host operating near San Jose, CA, individual vehicle earnings range between $24,000 and $38,500 annually, though profitability is largely dictated by how you navigate new marketplace rules (per https://sacra.com/c/turo/)
+The model is fundamentally sound — but the product is quietly at an inflection point. The core short-term rental experience is plagued by trust breakdowns that Turo can't fully control (unreliable hosts, surprise fees, slow claims), and the company is betting its next chapter on monthly and multi-month rentals, where trip risk is 68% lower and host economics are cleaner. The biggest open opportunity isn't feature depth — it's **turning a fragmented host supply into a consistent, predictable service layer** that makes Turo as reliable as Marriott, not as risky as Craigslist.
 
 ---
 
