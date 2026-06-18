@@ -8,6 +8,7 @@ Deep-dive analyses of products using the [AIPM Product Framework](../README.md#t
 |---------|----------|-----------------|-----------|
 | [AppleCare](applecare-teardown.md) | Services / Subscription | Business model, retention loops, service quality | ~10 min |
 | [Turo](turo-teardown.md) | Marketplace / Mobility | Two-sided marketplace trust, host/guest dynamics, competitive positioning | ~10 min |
+| [Robinhood](robinhood-teardown.md) | Fintech / AI Banking | AI-powered financial OS thesis, trust dynamics post-2021, Gold subscription LTV | ~11 min |
 
 ## How to Read a Teardown
 
