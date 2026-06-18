@@ -149,9 +149,6 @@ See real-world product analysis using the frameworks. Each teardown applies the 
 
 **[View all teardowns →](teardowns/README.md)**
 
-**Current teardowns:**
-- **[AppleCare](teardowns/applecare-teardown.md)** — Services subscription analysis covering retention, multi-device strategy, and service quality challenges
-
 ---
 
 ## What's in This Portfolio
